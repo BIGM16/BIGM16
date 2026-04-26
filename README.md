@@ -3,9 +3,11 @@
 💡 Développeur en construction | 🧠 Passionné de logique & physique | 🌍 Kinshasa
 
 🧬 À propos de moi
-            > Initialisation du système...
-            > Chargement des modules : code, curiosité, ambition...
-            > Status : en évolution constante 🚀
+> Initialisation du système...
+> 
+> Chargement des modules : code, curiosité, ambition...
+> 
+> Status : en évolution constante 🚀
 
 Je suis un développeur en pleine progression, obsédé par la compréhension profonde des choses — que ce soit en code, en maths ou en physique (oui, même la quantique 😄).
 
@@ -55,12 +57,13 @@ Parce que :
           🧱 Construire des systèmes solides et utiles
           📈 Philosophie
           
-Code simple > Code complexe
-Comprendre > Copier
-Maîtriser > Terminer vite
+          Code simple > Code complexe
+          Comprendre > Copier
+          Maîtriser > Terminer vite
 
 🎨 Représentation mentale (bonus 😄)
-        🧠
+
+        🧠 
        /|\
       / | \
      ⚛️ 💻 📊
